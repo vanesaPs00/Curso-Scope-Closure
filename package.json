@@ -1,0 +1,20 @@
+{
+  "name": "curso-scope-closure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanesaPs00/Curso-Scope-Closure.git"
+  },
+  "keywords": [],
+  "author": "Anggi vanesa pallares solis <vanessa.ps815@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vanesaPs00/Curso-Scope-Closure/issues"
+  },
+  "homepage": "https://github.com/vanesaPs00/Curso-Scope-Closure#readme"
+}
